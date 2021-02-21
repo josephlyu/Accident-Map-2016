@@ -4,5 +4,5 @@
 
 #### Interactive visualization is available at: https://accident.shangjielyu.com/
 
-![png](imgs/img.png)
+![png](data/preview.png)
 
